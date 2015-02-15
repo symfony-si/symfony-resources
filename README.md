@@ -14,6 +14,7 @@ Curated list of Symfony resources, tutorials, articles, bundles and other useful
 * [Awesome Symfony2](https://github.com/EmanueleMinotto/awesome-symfony2) - A list of awesome Symfony 2 bundles, utilities and resources
 * [Symfony News](http://symfony-news.com) - What a Symfony developer should know about the framework: News, Jobs, Tweets, Events, Videos...
 * [Sound of Symfony](http://www.soundofsymfony.com/) - Unofficial Symfony podcast
+* [Friends of Symfony](http://friendsofsymfony.github.io/) - Friends of Symfony - useful bundles and support for Symfony
 
 ## Tutorials
 
