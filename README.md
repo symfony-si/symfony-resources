@@ -6,6 +6,7 @@ Curated list of Symfony resources, tutorials, articles, bundles and other useful
 
 * [Symfony.com](http://symfony.com) - official Symfony page
 * [Symfony documentation](http://symfony.com/doc) - official Symfony documentation
+* [Symfony best practices](http://symfony.com/doc/current/best_practices/index.html) - Symfony best practices
 
 ## Unofficial resources
 
