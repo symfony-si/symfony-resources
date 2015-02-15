@@ -56,5 +56,8 @@ CRUD, models generation and other administration resources
   * [Symfony Day Italy](http://symfonyday.it)
 * [Symfony Japan](http://www.symfony.gr.jp/)
 * [Symfony Slovenia](http://symfony.si)
-* [Symfony Spain](http://symfony.es/)
+* Symfony Spain
+  * [Symfony Barcelona](http://symfony-barcelona.es/)
+  * [Symfony Madrid](http://www.symfony-madrid.es/)
+  * [Symfony Spain](http://symfony.es/)
 * [Symfony Sweden](http://symfony.se)
