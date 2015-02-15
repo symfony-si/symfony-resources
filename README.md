@@ -32,6 +32,10 @@ CRUD, models generation and other administration resources
 * [Sonata Admin Bundle](http://github.com/sonata-project/SonataAdminBundle) - Simple admin generator for Symfony applications
 * [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) - AdminBundle, The missing Symfony2 Admin Generator
 
+## Frameworks
+
+* [Silly](https://github.com/mnapoli/silly) - Silly CLI micro-framework based on Symfony Console component
+
 ## Other resources
 
 * [Melody](http://melody.sensiolabs.org/) - one file Composer scripts
