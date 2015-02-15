@@ -18,6 +18,7 @@ Curated list of Symfony resources, tutorials, articles, bundles and other useful
 
 ## Tutorials
 
+* [Sitepoint](http://www.sitepoint.com/?s=symfony) - Sitepoint's articles about Symfony
 * [Symblog](http://tutorial.symblog.co.uk/) - Creating a blog in Symfony
 * [Working with Symfony 2](http://code.tutsplus.com/series/working-with-symfony-2--cms-636) - Tutsplus series of Symfony tutorials
 
