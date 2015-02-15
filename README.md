@@ -34,6 +34,7 @@ CRUD, models generation and other administration resources
 
 ## Frameworks
 
+* [Silex](http://silex.sensiolabs.org/) - PHP micro-framework based on Symfony components
 * [Silly](https://github.com/mnapoli/silly) - Silly CLI micro-framework based on Symfony Console component
 
 ## Other resources
