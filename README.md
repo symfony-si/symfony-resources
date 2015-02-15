@@ -51,6 +51,7 @@ CRUD, models generation and other administration resources
 
 * [Symfony Armenia](http://symfony.am/)
 * [Symfony Austria](http://symfony-austria.org/)
+* [Symfony Croatia](http://symfony-croatia.com/)
 * [Symfony Indonesia](https://github.com/SymfonyId)
 * Symfony Italy
   * [Symfony Italy](http://symfony.it/)
