@@ -14,7 +14,11 @@ Curated list of Symfony resources, tutorials, articles, bundles and other useful
 * [Symfony News](http://symfony-news.com) - What a Symfony developer should know about the framework: News, Jobs, Tweets, Events, Videos...
 * [Sound of Symfony](http://www.soundofsymfony.com/) - Unofficial Symfony podcast
 
-## Traininings, practices, tutorials
+## Tutorials
+
+* [Symblog](http://tutorial.symblog.co.uk/) - Creating a blog in Symfony
+
+## Traininings
 
 * [Certificationy](https://github.com/certificationy) - Certificationy provides multiple tools to train on certifications like Symfony or Zend PHP5.5
 * [KNP University](http://knpuniversity.com/) - PHP tutorial screencast with many Symfony topics and tutorials
