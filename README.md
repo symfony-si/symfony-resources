@@ -54,6 +54,13 @@ CRUD, models generation and other administration resources
 
 * [Melody](http://melody.sensiolabs.org/) - one file Composer scripts
 
+## Community
+
+## Global communites
+
+* [Official Symfony forums](http://forum.symfony-project.org)
+* [Symfony on Redit](http://www.reddit.com/r/symfony)
+
 ## Local communities around the world
 
 * [Symfony Armenia](http://symfony.am/)
