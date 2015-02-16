@@ -38,6 +38,13 @@ CRUD, models generation and other administration resources
 * [Sonata Admin Bundle](http://github.com/sonata-project/SonataAdminBundle) - Simple admin generator for Symfony applications
 * [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) - AdminBundle, The missing Symfony2 Admin Generator
 
+## Cheat sheets
+
+* [Cheat sheet](http://www.symfony2cheatsheet.com/) - Symfony cheat sheet
+* [Symfony.si's Cheat Sheet](https://github.com/symfony-si/symfony-cheatsheet) - Symfony cheat sheet for Slovenian user group
+* [Cheat sheet](https://github.com/andreia/symfony-cheat-sheets) - Symfony cheat sheets 
+* [Cheat sheet](http://dattaya.github.io/symfony2-cheatsheets) - Symfony cheat sheet
+
 ## Frameworks
 
 * [Silex](http://silex.sensiolabs.org/) - PHP micro-framework based on Symfony components
@@ -51,9 +58,11 @@ CRUD, models generation and other administration resources
 
 * [Symfony Armenia](http://symfony.am/)
 * [Symfony Austria](http://symfony-austria.org/)
+* [Symfony China](http://symfony.cn/)
 * [Symfony Croatia](http://symfony-croatia.com/)
 * [Symfony Indonesia](https://github.com/SymfonyId)
 * Symfony Italy
+  * [Playing Symfony](http://www.playingsymfony.it/) - Symfony workshop
   * [Symfony Italy](http://symfony.it/)
   * [Symfony Day Italy](http://symfonyday.it)
 * [Symfony Japan](http://www.symfony.gr.jp/)
