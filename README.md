@@ -2,6 +2,16 @@
 
 Curated list of Symfony resources, tutorials, articles, bundles and other useful links
 
+* [Official resources](#official-resources)
+* [Unofficial resources](#unofficial-resources)
+* [Tutorials](#tutorials)
+* [Trainings](#trainings)
+* [Administration](#administration)
+* [Cheat sheets](#cheat-sheets)
+* [Community](#community)
+  * [Global](#global)
+  * [Local](#local)
+
 ## Official resources
 
 * [Symfony.com](http://symfony.com) - official Symfony page
@@ -56,12 +66,16 @@ CRUD, models generation and other administration resources
 
 ## Community
 
-## Global communites
+### Global
+
+Global communities around the world
 
 * [Official Symfony forums](http://forum.symfony-project.org)
 * [Symfony on Redit](http://www.reddit.com/r/symfony)
 
-## Local communities around the world
+### Local
+
+Local communities around the world
 
 * [Symfony Armenia](http://symfony.am/)
 * [Symfony Austria](http://symfony-austria.org/)
