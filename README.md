@@ -94,3 +94,4 @@ Local communities around the world
   * [Symfony Madrid](http://www.symfony-madrid.es/)
   * [Symfony Spain](http://symfony.es/)
 * [Symfony Sweden](http://symfony.se)
+* [Symfony Tunisia](http://symfony-tunisia.com/)
