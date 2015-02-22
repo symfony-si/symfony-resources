@@ -31,6 +31,7 @@ Curated list of Symfony resources, tutorials, articles, bundles and other useful
 
 ## Tutorials<a name="tutorials"></a>
 
+* [Jobeet](http://www.ens.ro/2012/03/21/jobeet-tutorial-with-symfony2/) - Jobeet tutorial with Symfony2
 * [Screenfony](http://www.screenfony.com/) - Symfony tutorials for serious developers
 * [Sitepoint](http://www.sitepoint.com/?s=symfony) - Sitepoint's articles about Symfony
 * [Symblog](http://tutorial.symblog.co.uk/) - Creating a blog in Symfony
