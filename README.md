@@ -9,6 +9,7 @@ Curated list of Symfony resources, tutorials, articles, bundles and other useful
 * [Administration](#administration)
 * [Cheat sheets](#cheat-sheets)
 * [Frameworks](#frameworks)
+* [Blogs](#blogs)
 * [Other resources](#other-resources)
 * [Community](#community)
   * [Global](#global)
@@ -63,6 +64,12 @@ CRUD, models generation and other administration resources
 
 * [Silex](http://silex.sensiolabs.org/) - PHP micro-framework based on Symfony components
 * [Silly](https://github.com/mnapoli/silly) - Silly CLI micro-framework based on Symfony Console component
+
+## Blogs<a name="blogs"></a>
+
+Awesome blogs about Symfony
+
+* [Loige.co](http://loige.co/tag/symfony/)
 
 ## Other resources<a name="other-resources"></a>
 
