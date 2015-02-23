@@ -72,6 +72,7 @@ Frameworks which use Symfony components
 
 Awesome blogs about Symfony
 
+* [Craft it Online](http://www.craftitonline.com/)
 * [Loige.co](http://loige.co/tag/symfony/)
 
 ## Other resources<a name="other-resources"></a>
