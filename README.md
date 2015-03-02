@@ -42,8 +42,9 @@ Curated list of Symfony resources, tutorials, articles, bundles and other useful
 
 * [Certificationy](https://github.com/certificationy) - Certificationy provides multiple tools to train on certifications like Symfony or Zend PHP5.5
 * [KNP University](http://knpuniversity.com/) - PHP tutorial screencast with many Symfony topics and tutorials
-* [SymfonyCon talks](https://github.com/SymfonyCon) - talks from SymfonyCon conferences
+* [Symfony Certification Guide](https://github.com/jmolivas/symfony-certification-guide) - unofficial Symfony certification guide
 * [Symfony Live talks](https://github.com/SymfonyLive) - talks from SymfonyLive conferences
+* [SymfonyCon talks](https://github.com/SymfonyCon) - talks from SymfonyCon conferences
 
 ## Administration<a name="administration"></a>
 
