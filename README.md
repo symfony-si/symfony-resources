@@ -24,7 +24,7 @@ Curated list of Symfony resources, tutorials, articles, bundles and other useful
 
 ## Unofficial resources<a name="unofficial-resources"></a>
 
-* [Knp Bundles - Symfony2 Bundles](http://knpbundles.com/) - Symfony bundles 
+* [Knp Bundles - Symfony2 Bundles](http://knpbundles.com/) - Symfony bundles
 * [Awesome Symfony2](https://github.com/EmanueleMinotto/awesome-symfony2) - A list of awesome Symfony 2 bundles, utilities and resources
 * [Symfony News](http://symfony-news.com) - What a Symfony developer should know about the framework: News, Jobs, Tweets, Events, Videos...
 * [Sound of Symfony](http://www.soundofsymfony.com/) - Unofficial Symfony podcast
@@ -58,14 +58,14 @@ CRUD, models generation and other administration resources
 
 * [Cheat sheet](http://www.symfony2cheatsheet.com/) - Symfony cheat sheet
 * [Symfony.si's Cheat Sheet](https://github.com/symfony-si/symfony-cheatsheet) - Symfony cheat sheet for Slovenian user group
-* [Cheat sheet](https://github.com/andreia/symfony-cheat-sheets) - Symfony cheat sheets 
+* [Cheat sheet](https://github.com/andreia/symfony-cheat-sheets) - Symfony cheat sheets
 * [Cheat sheet](http://dattaya.github.io/symfony2-cheatsheets) - Symfony cheat sheet
 
 ## Frameworks<a name="frameworks"></a>
 
 Frameworks which use Symfony components
 
-* [Laravel](http://laravel.com/) - popular full stack PHP framework built with some of Symfony components 
+* [Laravel](http://laravel.com/) - popular full stack PHP framework built with some of Symfony components
 * [Silex](http://silex.sensiolabs.org/) - PHP micro-framework based on Symfony components
 * [Silly](https://github.com/mnapoli/silly) - Silly CLI micro-framework based on Symfony Console component
 
@@ -74,6 +74,7 @@ Frameworks which use Symfony components
 Awesome blogs about Symfony
 
 * [Craft it Online](http://www.craftitonline.com/)
+* [Loïc's blog](http://gnugat.github.io/tags/symfony.html)
 * [Knp University](https://knpuniversity.com/blog)
 * [Loige.co](http://loige.co/tag/symfony/)
 
