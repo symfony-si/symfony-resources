@@ -77,6 +77,7 @@ Awesome blogs about Symfony
 * [Loïc's blog](http://gnugat.github.io/tags/symfony.html)
 * [Knp University](https://knpuniversity.com/blog)
 * [Loige.co](http://loige.co/tag/symfony/)
+* [Symfony Finland](https://www.symfony.fi/)
 
 ## Other resources<a name="other-resources"></a>
 
