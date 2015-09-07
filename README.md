@@ -91,7 +91,7 @@ Awesome blogs about Symfony
 
 Global communities around the world
 
-* [Official Symfony forums](http://forum.symfony-project.org)
+* [Symfony support on Stack Overflow](http://stackoverflow.com/questions/tagged/symfony2)
 * [Symfony on Redit](http://www.reddit.com/r/symfony)
 
 ### Local<a name="local"></a>
