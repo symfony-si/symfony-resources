@@ -65,6 +65,7 @@ CRUD, models generation and other administration resources
 
 Frameworks which use Symfony components
 
+* [API Platform](https://api-platform.com/) - API-first web framework on top of Symfony with JSON-LD, Schema.org and Hydra support
 * [Laravel](http://laravel.com/) - popular full stack PHP framework built with some of Symfony components
 * [Silex](http://silex.sensiolabs.org/) - PHP micro-framework based on Symfony components
 * [Silly](https://github.com/mnapoli/silly) - Silly CLI micro-framework based on Symfony Console component
