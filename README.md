@@ -1,9 +1,11 @@
 # Symfony resources
 
-Curated list of Symfony resources, tutorials, articles, bundles and other useful links
+Curated list of Symfony resources, tutorials, articles, bundles and other useful links.
+
+## Table of Contents
 
 * [Official resources](#official-resources)
-* [Unofficial resources](#unofficial-resources)
+* [Useful resources](#useful-resources)
 * [Tutorials](#tutorials)
 * [Trainings](#trainings)
 * [Administration](#administration)
@@ -17,12 +19,16 @@ Curated list of Symfony resources, tutorials, articles, bundles and other useful
 
 ## Official resources<a name="official-resources"></a>
 
+*Symfony documentation and official Symfony links.*
+
 * [Symfony.com](http://symfony.com) - official Symfony page
 * [Symfony documentation](http://symfony.com/doc) - official Symfony documentation
 * [Symfony best practices](http://symfony.com/doc/current/best_practices/index.html) - Symfony best practices
 * [Symfony cookbook](http://symfony.com/doc/current/cookbook/index.html) - Symfony cookbook
 
-## Unofficial resources<a name="unofficial-resources"></a>
+## Useful resources<a name="useful-resources"></a>
+
+*Useful, unofficial, but important links for intermediate or advanced Symfony learning.*
 
 * [Knp Bundles - Symfony2 Bundles](http://knpbundles.com/) - Symfony bundles
 * [Awesome Symfony2](https://github.com/EmanueleMinotto/awesome-symfony2) - A list of awesome Symfony 2 bundles, utilities and resources
@@ -32,6 +38,8 @@ Curated list of Symfony resources, tutorials, articles, bundles and other useful
 
 ## Tutorials<a name="tutorials"></a>
 
+*Symfony tutorials.*
+
 * [Jobeet](http://www.ens.ro/2012/03/21/jobeet-tutorial-with-symfony2/) - Jobeet tutorial with Symfony2
 * [Screenfony](http://www.screenfony.com/) - Symfony tutorials for serious developers
 * [Sitepoint](http://www.sitepoint.com/?s=symfony) - Sitepoint's articles about Symfony
@@ -39,6 +47,8 @@ Curated list of Symfony resources, tutorials, articles, bundles and other useful
 * [Working with Symfony 2](http://code.tutsplus.com/series/working-with-symfony-2--cms-636) - Tutsplus series of Symfony tutorials
 
 ## Traininings<a name="trainings"></a>
+
+*Get trained by Symfony professionals.*
 
 * [Certificationy](https://github.com/certificationy) - Certificationy provides multiple tools to train on certifications like Symfony or Zend PHP5.5
 * [Knp University](http://knpuniversity.com/) - PHP tutorial screencast with many Symfony topics and tutorials
@@ -63,7 +73,7 @@ CRUD, models generation and other administration resources
 
 ## Frameworks<a name="frameworks"></a>
 
-Frameworks which use Symfony components
+*Frameworks which use Symfony components.*
 
 * [API Platform](https://api-platform.com/) - API-first web framework on top of Symfony with JSON-LD, Schema.org and Hydra support
 * [Laravel](http://laravel.com/) - popular full stack PHP framework built with some of Symfony components
@@ -72,7 +82,7 @@ Frameworks which use Symfony components
 
 ## Blogs<a name="blogs"></a>
 
-Awesome blogs about Symfony
+*Awesome blogs about Symfony.*
 
 * [Craft it Online](http://www.craftitonline.com/)
 * [Dunglas.fr](https://dunglas.fr/)
@@ -88,16 +98,24 @@ Awesome blogs about Symfony
 
 ## Community<a name="community"></a>
 
+*Ask and answer questions, find and share Symfony resources and get in touch with the community.*
+
 ### Global<a name="global"></a>
 
-Global communities around the world
+*Global communities around the world.*
 
 * [Symfony support on Stack Overflow](http://stackoverflow.com/questions/tagged/symfony2)
 * [Symfony on Redit](http://www.reddit.com/r/symfony)
+* Facebook:
+    * [Facebook](https://www.facebook.com/groups/7672226565/) - Large and active Symfony group.
+* [Google+](https://plus.google.com/communities/109013871316146116610) - Large and active group about Symfony on Google+.
+* [Freenode](http://irc.lc/freenode/symfony) - Active IRC channel for Symfony support.
+* [Linked.in](https://www.linkedin.com/grp/home?gid=29205) - Large and active group on Linked.in.
+* [Quora](https://www.quora.com/Symfony) - Symfony topics on Quora.
 
 ### Local<a name="local"></a>
 
-Local communities around the world
+*Local user groups from all over the world.*
 
 * [Symfony Armenia](http://symfony.am/)
 * [Symfony Austria](http://symfony-austria.org/)
