@@ -46,6 +46,8 @@ Curated list of Symfony resources, tutorials, articles, bundles and other useful
 * [Symblog](http://tutorial.symblog.co.uk/) - Creating a blog in Symfony
 * [Working with Symfony 2](http://code.tutsplus.com/series/working-with-symfony-2--cms-636) - Tutsplus series of Symfony tutorials
 
+* [Symfony Controller Best Practice by not extending a Base Controller but injecting dependencies](http://blog.dashboardhub.io/2015/09/26/symfony-controller-not-extending-fosrest-bundle/)
+
 ## Traininings<a name="trainings"></a>
 
 *Get trained by Symfony professionals.*
