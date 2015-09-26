@@ -112,6 +112,7 @@ CRUD, models generation and other administration resources
 * [Freenode](http://irc.lc/freenode/symfony) - Active IRC channel for Symfony support.
 * [Linked.in](https://www.linkedin.com/grp/home?gid=29205) - Large and active group on Linked.in.
 * [Quora](https://www.quora.com/Symfony) - Symfony topics on Quora.
+* [Meetup](http://symfony.meetup.com/) - Find and meet Symfony users from across the world on Meetup.
 
 ### Local<a name="local"></a>
 
@@ -121,6 +122,7 @@ CRUD, models generation and other administration resources
 * [Symfony Austria](http://symfony-austria.org/)
 * [Symfony China](http://symfony.cn/)
 * [Symfony Croatia](http://symfony-croatia.com/)
+* [Symfony Czech](http://www.symfony.cz/)
 * [Symfony Indonesia](https://github.com/SymfonyId)
 * Symfony Italy
   * [Playing Symfony](http://www.playingsymfony.it/) - Symfony workshop
