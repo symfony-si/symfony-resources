@@ -47,6 +47,7 @@ Curated list of Symfony resources, tutorials, articles, bundles and other useful
 * [Working with Symfony 2](http://code.tutsplus.com/series/working-with-symfony-2--cms-636) - Tutsplus series of Symfony tutorials
 
 * [Symfony Controller Best Practice by not extending a Base Controller but injecting dependencies](http://blog.dashboardhub.io/2015/09/26/symfony-controller-not-extending-fosrest-bundle/)
+* [Sending configurable e-mails in Symfony](https://github.com/sebastianbergmann/phpunit/wiki/Release-Announcement-for-PHPUnit-5.0.0)
 
 ## Traininings<a name="trainings"></a>
 
