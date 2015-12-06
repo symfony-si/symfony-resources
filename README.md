@@ -96,6 +96,7 @@ CRUD, models generation and other administration resources
 * [Loige.co](http://loige.co/tag/symfony/)
 * [stfalcon.com](http://stfalcon.com/en/blog/tag/symfony2)
 * [Symfony Finland](https://www.symfony.fi/)
+* [Symfony Bloggers](https://github.com/khepin/symfonybloggers) - List of Symfony related blog's RSS feeds.
 
 ## Other resources<a name="other-resources"></a>
 
