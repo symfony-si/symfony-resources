@@ -50,6 +50,7 @@ Curated list of Symfony resources, tutorials, articles, bundles and other useful
 * [Custom Events in Symfony2 Bundle](http://harikt.com/blog/2015/10/11/custom-events-in-symfony2-bundle/)
 * [Symfony2 Admin panel in 30 seconds?](http://level7systems.co.uk/en/symfony2-admin-panel-in-30-seconds/) - Usage of EasyAdminBundle.
 * [Basic User Management in Symfony2 with FOSUserBundle](http://www.sitepoint.com/basic-user-management-in-symfony2-with-fosuserbundle/)
+* [Symfony Guard](http://www.sitepoint.com/easier-authentication-with-guard-in-symfony-3/) - Easier Authentication with Guard in Symfony 3.
 
 ## Traininings<a name="trainings"></a>
 
