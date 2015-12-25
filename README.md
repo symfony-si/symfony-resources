@@ -99,6 +99,12 @@ CRUD, models generation and other administration resources
 * [Symfony Finland](https://www.symfony.fi/)
 * [Symfony Bloggers](https://github.com/khepin/symfonybloggers) - List of Symfony related blog's RSS feeds.
 
+## Books<a name="books"></a>
+
+*Awesome books about Symfony.*
+
+* [Symfony Certification](https://leanpub.com/symfony-selfstudy) - Preparation for Symfony certification exam.
+
 ## Other resources<a name="other-resources"></a>
 
 * [Melody](http://melody.sensiolabs.org/) - one file Composer scripts
