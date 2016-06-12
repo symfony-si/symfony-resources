@@ -93,7 +93,7 @@ CRUD, models generation and other administration resources
 * [Craft it Online](http://www.craftitonline.com/)
 * [Dunglas.fr](https://dunglas.fr/)
 * [Knp University](https://knpuniversity.com/blog)
-* [Loïc's blog](http://gnugat.github.io/tags/symfony.html)
+* [Loïc's blog](http://gnugat.github.io/tags/symfony)
 * [Loige.co](http://loige.co/tag/symfony/)
 * [stfalcon.com](http://stfalcon.com/en/blog/tag/symfony2)
 * [Symfony Finland](https://www.symfony.fi/)
